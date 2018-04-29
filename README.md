@@ -4,14 +4,9 @@
 ******** Insert pics of the 3 species 
 
 -----------------------------
-## Background information - Research it and write a summary about it
-# In 1936, Ronald Fisher collected data on three species of the Iris flower which is referred as the Iris data set.
-# However, it has also been referred to as Anderson's Iris data set as Edgar Anderson gathered the data. 
-# The names of the three species selected were setosa, versicolor and virginica. 
-# The data collected took measurements in centimeteres of the following features  - the length and width of the petals and also both the length and width of the sepals. 
-# In total, 150 iris plants with 50 plants from each of the three species had these dimensions recorded.
-# The Iris data set is described in statistics as a multivariate data set where there is more than one outcome to a variable.
-# The purpose of the data set was to illustrate linear discrimiant analysis which displayed how the species difered from each other.    
+## Background information:
+
+# In 1936, Ronald Fisher collected data on three species of the Iris flower which is referred as the Iris data set. However, it has also been referred to as Anderson's Iris data set as Edgar Anderson gathered the data. The names of the three species selected were setosa, versicolor and virginica. The data collected took measurements in centimeteres of the following features  - the length and width of the petals and also both the length and width of the sepals. In total, 150 iris plants with 50 plants from each of the three species had these dimensions recorded. The Iris data set is described in statistics as a multivariate data set where there is more than one outcome to a variable. Based on the findings from the Iris data set, Fisher illustrated linear discrimiant analysis which displayed how the species differed from each other.    
 
 
 
@@ -22,6 +17,20 @@
 
 Dataset 
 
-Summarise data by max, min, mean of each column, use of pyton script
+## Summarise data by max, min, mean of each column, use of pyton script.
+# The minimum for the features was calculated using min.py python script giving the following results:
+petal length 4.3, petal width 2.0, sepal length 1.0 and sepal width 0.1. 
+
+# The maximum for the features was calculated using max.py python script giving the following results
+petal length 7.9, petal width 4.4, sepal length 6.9 and sepal width 2.5.  
+
+# The mean or average for the features was calculated using mean.py python script giving the following results
+petal length 5.8, petal width 3.1, sepal length 3.8 and sepal width 1.2.  
+
+
+
+## 
+Summary of invertigations
+
 
 Incude supporting tables and graphics
