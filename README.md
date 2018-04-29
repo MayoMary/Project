@@ -1,6 +1,6 @@
 # Project 2018
 -------------------
-## 3 species of Iris data set
+## 3 species of Iris used in Fisher's Iris data set
 ![](irisimage.png)
 
 
