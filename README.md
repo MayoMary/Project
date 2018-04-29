@@ -1,7 +1,7 @@
 # Project 2018
 -------------------
 ## 3 species of Iris data set
-![](mayomary/project/iris-image.png)
+![](irisimage.png)
 
 
 
