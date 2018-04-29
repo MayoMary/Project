@@ -1,12 +1,12 @@
 ### Project 2018
 -------------------
 
-******** Insert pics of the 3 species 
+
 
 -----------------------------
 ## Background information:
 
-# In 1936, Ronald Fisher collected data on three species of the Iris flower which is referred as the Iris data set. However, it has also been referred to as Anderson's Iris data set as Edgar Anderson gathered the data. The names of the three species selected were setosa, versicolor and virginica. The data collected took measurements in centimeteres of the following features  - the length and width of the petals and also both the length and width of the sepals. In total, 150 iris plants with 50 plants from each of the three species had these dimensions recorded. The Iris data set is described in statistics as a multivariate data set where there is more than one outcome to a variable. Based on the findings from the Iris data set, Fisher illustrated linear discrimiant analysis which displayed how the species differed from each other.    
+# In 1936, Ronald Fisher collected data on three species of the Iris flower which is referred as the Iris data set. However, it has also been referred to as Anderson's Iris data set as Edgar Anderson gathered the data. The names of the three species selected were setosa, versicolor and virginica. The data collated was measurements in centimeteres of the following four features  - petal length and width and also sepal length and width resulting in the first line from the data set as follows : 5.1,3.5,1.4,0.2,Iris-setosa where Iris-setosa is the name of the species. In total, 150 iris plants with 50 plants from each of the three species had these dimensions recorded.  The Iris data set is described in statistics as a multivariate data set where there is more than one outcome to a variable. Based on the findings from the Iris data set, Fisher illustrated linear discrimiant analysis which displayed how the species differed from each other.    
 
 
 
