@@ -1,6 +1,6 @@
-# Project 2018
-
-Background information - Summary
+## Project 2018
+-------------------
+#Background information - Summary
 
 
 References
