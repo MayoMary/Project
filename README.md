@@ -1,7 +1,7 @@
 # Project 2018
 -------------------
-3 species of Iris data set
-![](Iris-image)
+## 3 species of Iris data set
+![](project/Iris-image.png)
 
 
 
